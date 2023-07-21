@@ -1,90 +1,28 @@
 ---
-title: "Pondicherry / Karaikal Based R User Group Ideation"
+title: "Curriculum Vitae"
 author: "Akilesh R"
 format: revealjs
 editor: visual
 ---
+# Akilesh
+Assistant Professor & Officer-In-Charge (Dentistry), JIPMER, Karaikal, Puducherry
 
-## What is R ?
+<div id="webaddress"> Write to me at: <a href="akilesh.r@jipmer.ac.in">akilesh.r [at] jipmer[dot] ac [dot] in </a>
+</div>
 
--   A free open source statistical software
+### Specialised in
 
--   An ideal supporting tool for open science and open data analytics.
+1. Maxillofacial Facial Trauma, Temporomandibular joint disorders, Orofacial pain, Benign Orofacial pathologies, Multidisciplinary management of head and neck deformities/pathology, Maxillofacial Esthetic Procedures, Orthognathic Surgery.
+2. Patient specific implant technology and additive manufacturing principles and use of virtual surgical planning for maxillofacial region.
 
-## Who are you ?
+### Research interests
 
--   I am Akilesh. R and work at JIPMER, Karaikal
+1. Evidence based practice/Systematic reviews & Meta-analysis, Research methodology, Surgically oriented research & Reproducible/responsible research with emphasis on use of AI/ML for public good.
+2. Medical education & Dental Education – Curriculum Development, Assessment methods & innovative teaching methods in surgical skills.
+3. Healthcare quality, Patient Safety
+4. Behavioural Research and design, Design thinking.
+## To know more about my work/interests:
+[Google Scholar Profile](https://scholar.google.co.in/citations?user=IdCpTDsAAAAJ&hl=en) || [ResearchGate](https://www.researchgate.net/profile/Akilesh-Ramasamy) || [ORCID](https://orcid.org/0000-0002-5725-2378)
 
--   My core domain is dentistry. I specialised as an oral and maxillofacial surgeon (someone who does surgery in the jaw bones). I am a practicising clinician-surgeon working in an institute of national importance (JIPMER, Karaikal, Puducherry)
-
--   You can reach out to me through twitter ["\@akident"](https://twitter.com/akident) or write an [email: info\@akident.anonaddy.com](mail:info@akident.anonaddy.com)
-
--   I have ardent interest in using technology for public good. You can see the [keynote](https://www.youtube.com/watch?v=Lgx1vd4V_xc), I delivered during Python India Conference, 2019 at:
-
-## Why am you doing this ?
-
--   R is one of the many opensource interests of mine \[Others being Inkscape, GIMP, LINUX (Fedora), Blender, Moodle, LibreOffice, wordpress and am interested in QGIS, GRASS among others\].
-
--   An opportunity for like-minded R users to gather and learn from each other.
-
--   I have no conflicts of interest in starting this group. I have also applied for support from R-Consortium (Linux Foundation) for starting this group and if approved, may get financial support
-
-## Where can I use R ?
-
--   In Multiple domains
-
-    -   science, engineering & technology
-
-    -   medical/biomedical
-
-    -   public good
-
-    -   financial analysis
-
-    -   social sciences
-
-    -   financial and econometrics\
-
-## Why an R User Group ?
-
-It is a free opensource software
-
--   There are only about 10 R User Groups with nearest one at Chennai/Bengaluru
-
--   Opportunities for online and offline collaborations and meeting(s)
-
--   The Group will be exclusively about R and how it can be extended to be used with other languages such as Python etc.,
-
--   If we establish an organized group, it is easier to create a community of practice of people residing in the same geographical regions.
-
-## Why should I be interested ?
-
--   You wish to know how others in your domain use R!
-
--   You wish to know how other domains use R!
-
--   You wish to learn R from an inclusive, diverse and cross-domain group in a safe learning environment.
-
--   You want to know about best practices.
-
-## Vision and Mission of this group
-
--   Gathering people with like-minded interests in R.
-
--   A safe. inclusive, equitable, accessible and diverse group of individuals coming together and meeting online/offline to discuss and learn about R
-
--   To be an open minded community of practice in using R for various practical purposes.
-
--   Regular formal and informal meetings related to R and knowledge/best practices.
-
--   Opportunities to learn, share and collaborate, co-create with each other about using R better.
-
-## Where can I get more information on this group?
-
--   The group has NOT yet started.
-
--   If you wish to know more, you can fill your interest through this form: https://forms.gle/AnrqoQRZgYCSKhy99
-
--   The data will be kept confidential. For more information send an email to the following masked email:
-
--   info \[at\] akident \[dot\] anonaddy \[dot\] com
+<!-- ### Footer -->
+Last updated: Jul 2023
